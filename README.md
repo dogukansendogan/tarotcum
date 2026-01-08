@@ -1,0 +1,2 @@
+# tarotcum
+tarot app 
